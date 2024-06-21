@@ -10,7 +10,7 @@
   <img align="center" alt="Mat-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </div>
 
-### Um pouco sobre mim:
+## Um pouco sobre mim:
 
 - 🏃🏻 Estou em busca de entrar na área de Desenvolvimento WEB com LARAVEL ...
 - 👨🏻‍💻 Atualmente trabalho no projeto Oficina SOS MECÂNICA ...
@@ -22,12 +22,19 @@
 - 🪐 Amo Astronomia ...
 - 📫 Contatos: mateus11_santos@hotmail.com
 
+## Mais detalhes profissionais podem ser encontrados no link do meu portfólio:
+
+### Link: [Mateus-Santos-Portfólio.](https://mateus-santos.github.io/)
+
+# Dados sobre meu perfil:
+
 ![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=Mateus-Santos&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Santos&layout=compact)
 
 
  ## Meus contatos!
+ 
 <div> 
   <a href="https://www.instagram.com/teeusantos20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusantosms11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
