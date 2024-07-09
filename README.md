@@ -21,6 +21,7 @@
 - 🪐 Amo Astronomia ...
 - <a href="https://wa.me/5575987028960"><img align="center" alt="Mat-Whatsapp" height="20" width="20" src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000"></a> Whatsapp: <a href="https://wa.me/5575987028960"> +55 75 9 87028-9630</a>
 - 📫 E-mail: mateus11_santos@hotmail.com
+- <a href="https://www.linkedin.com/in/mateus-santos20/"><img align="center" alt="Mat-LinkedIn" height="20" width="20" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a> LinkedIn: <a href="https://www.linkedin.com/in/mateus-santos20/">Mateus-Santos20</a>
 
 ## Mais detalhes profissionais podem ser encontrados no link do meu portfólio:
 
@@ -33,16 +34,16 @@
  ## Meus contatos!
 <div> 
   <a href="https://wa.me/5575987028960" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-santos20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/teeusantos20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusantosms11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
-  <a href = "mailto:mateus11_santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_white"></a>
-  <a href="https://www.linkedin.com/in/mateus-santos20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateus11_santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
 ### Outras habilidades...
 
 <div style="display: inline_block">
-  <img align="center" alt="Mat-Office" height="30" width="180" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Mat-Word" height="30" width="180" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img align="center" alt="Mat-Excel" height="30" width="180" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Mat-PowerPoint" height="30" width="250" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 </div>
