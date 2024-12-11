@@ -57,8 +57,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Santos&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mateus-Santos&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 ### Outras habilidades...
 
 <div align="center" style="display: inline_block">
