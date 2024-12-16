@@ -41,7 +41,7 @@
 - 🧑🏻‍💻 Técnico em Desenvolvimento de Sistemas - SENAI
 - ⭐ Linguagens favoritas: PHP e PYTHON ...
 - 🪐 Amo Astronomia ...
-- <a href="https://wa.me/5575987028960"><img align="center" alt="Mat-Whatsapp" height="20" width="20" src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000"></a> Whatsapp: <a href="https://wa.me/5575987028960"> +55 75 9 87028-9630</a>
+- <a href="https://wa.me/5575987028960"><img align="center" alt="Mat-Whatsapp" height="20" width="20" src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000"></a> Whatsapp: <a href="https://wa.me/5575987028960"> +55 75 9 8702-8960</a>
 - 📫 E-mail: mateus11_santos@hotmail.com
 - <a href="https://www.linkedin.com/in/mateus-santos20/"><img align="center" alt="Mat-LinkedIn" height="20" width="20" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a> LinkedIn: <a href="https://www.linkedin.com/in/mateus-santos20/">Mateus-Santos20</a>
 
