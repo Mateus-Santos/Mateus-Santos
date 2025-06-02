@@ -53,7 +53,7 @@
 
 [![Mateus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateus-Santos&bg_color=0d1117&color=18FF84&line=FFA500&point=149DDD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=Mateus-Santos&show_icons=true&theme=radical) 
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Santos&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Santos&layout=compact)
 
