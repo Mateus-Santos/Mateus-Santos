@@ -41,7 +41,6 @@ Acesse todos os meus projetos e demos em:
 
 * **SOS Mecânica** – Sistema de controle de ordens de serviço, desenvolvido em **Laravel** + **Vue.js**, com painel administrativo e emissão de orçamentos.
 * **Dashboard Financeiro** – Painel interativo de análise de dados, criado em **Streamlit** + **Pandas**, integrado a visualizações no **Power BI**.
-* **Sistema Escolar** – Plataforma de gestão de cursos, alunos e certificados, com autenticação, CRUD completo e relatórios em **Laravel**.
 
 ---
 
